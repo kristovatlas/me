@@ -34,6 +34,7 @@ A complete list of my public repos (including trivial forks of other projects) c
 * [OpenBazaar](https://github.com/OpenBazaar/): The various pieces of the OpenBazaar software project, a peer-to-peer marketplace
 * [Subspace](https://github.com/cpacia/Subspace): A scalable, lightweight, anonymous messaging protocol
 * [Shufflepuff](https://github.com/DanielKrawisz/Shufflepuff): A Mycelium implementation of CoinShuffle
+* [zcash](https://github.com/zcash/zcash): An altcoin based on the zerocash protocol
 
 ## My GitHub-relevant interests:
 
