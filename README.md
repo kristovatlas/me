@@ -9,7 +9,7 @@
 
 * [wallet-ratings](https://github.com/OpenBitcoinPrivacyProject/wallet-ratings): A threat model for Bitcoin wallet client privacy, and data gathered about a variety of wallet clients presented Consumer Reports-style
 * [osx-config-check](https://github.com/kristovatlas/osx-config-check): Checks your OS X machine against various hardened configuration settings
-* [threat-model-scoring-system](https://github.com/kristovatlas/threat-model-scoring-system): Software tools for expressing threat models, calculating statistics about them, and exporting them to human-readable formats
+* [threat-model-scoring-system](https://github.com/OpenBitcoinPrivacyProject/threat-model-scoring-system/): Software tools for expressing threat models, calculating statistics about them, and exporting them to human-readable formats
 * [how-to-security](https://github.com/kristovatlas/how-to-security): Basic advice on how to do computer things securely for non-experts
 
 ## Back-burner projects
